@@ -1,9 +1,13 @@
 body{
-    background: #CCCCCC;
+    
 }
 
 #banner{
     width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
 }
 
 h1{
@@ -21,6 +25,14 @@ em strong{
 
 #mision{
     font-size: 20px
+}
+
+.diferenciales{
+    background: white;
+}
+
+h2{
+    text-align: center;
 }
 
 .items{
