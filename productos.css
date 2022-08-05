@@ -1,0 +1,17 @@
+header{
+    background-color: #BBBBBB;
+}
+
+nav li{
+    display: inline; /** quita saltos de linea **/
+    margin: 0 0 0 15px;
+
+
+}
+
+nav a{
+    text-transform: uppercase; /** Convierte en mayusculas el texto**/
+    color: black;  /** Color de la letra **/
+    font-size: 22px;  /** Tamaño de la letra **/
+    text-decoration: none;  /** Quita subrayado del texto **/
+}
