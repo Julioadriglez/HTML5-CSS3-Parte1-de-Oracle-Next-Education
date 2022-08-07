@@ -51,9 +51,21 @@ nav a:hover{ /* cambia el color al posisionar el mause sobre el menu de navegavi
     border-radius: 10px 10px 10px 10px; /** Redondeo del margen **/
 }
 
+.productos li:hover{
+     border-color: #c78c19;
+}
+
+.productos li:active{  /* campura el clip del mouse para cambiar de color verde*/
+    border-color: #088c19;
+}
+
 .productos h2{
-    font-size: 27px;
+    font-size: 26px;
     font-weight: bold;
+}
+
+.productos li:hover h2{ /* Aumenta el tamaño de la letra la pasar el puntero */
+    font-size: 28px;
 }
 
 .producto-descripcion{
