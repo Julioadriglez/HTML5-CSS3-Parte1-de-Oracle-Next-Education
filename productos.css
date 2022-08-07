@@ -42,7 +42,8 @@ nav a{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid black;
+    border: 2px solid black;  /** tamaño de borde, tipo de borde y color del borde **/
+    border-radius: 10px 10px 10px 10px; /** Redondeo del margen **/
 }
 
 .productos h2{
