@@ -39,10 +39,14 @@ nav a{
     text-align: center;
     width: 30%;
     vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
 }
 
 .productos h2{
-    font-size: 30px;
+    font-size: 27px;
     font-weight: bold;
 }
 
