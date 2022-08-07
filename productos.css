@@ -28,6 +28,11 @@ nav a{
     text-decoration: none;  /** Quita subrayado del texto **/
 }
 
+nav a:hover{ /* cambia el color al posisionar el mause sobre el menu de navegavion */
+    color:#c78c19;
+    text-decoration: underline;
+}
+
 .productos{
     width: 940px;
     margin: 0 auto;
