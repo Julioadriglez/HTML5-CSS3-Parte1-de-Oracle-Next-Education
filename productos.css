@@ -79,3 +79,9 @@ nav a:hover{ /* cambia el color al posisionar el mause sobre el menu de navegavi
     margin-top: 10px;
 
 }
+
+footer{
+    text-align: center;
+    background: url(imagen/bg.jpg); /*Se agrego imagen como fondo de pantalla del pie de pagina*/
+    padding: 40px;
+}
