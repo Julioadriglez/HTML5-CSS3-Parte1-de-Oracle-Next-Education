@@ -85,3 +85,9 @@ footer{
     background: url(imagen/bg.jpg); /*Se agrego imagen como fondo de pantalla del pie de pagina*/
     padding: 40px;
 }
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+}
