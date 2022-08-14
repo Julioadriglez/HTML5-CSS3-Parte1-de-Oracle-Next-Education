@@ -209,6 +209,10 @@ td,th{
     line-height: 1.5; /* Para dar interlineado*/
 }
 
+.items:first-child{ /*AL primero de los items le aplica el estilo*/
+    font-weight: bold;
+}
+
 .imagen-diferenciales{
     width: 60%;
 }
