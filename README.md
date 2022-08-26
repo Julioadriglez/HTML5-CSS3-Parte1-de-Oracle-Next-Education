@@ -58,15 +58,29 @@ Las pagina contiene una estructura `HTMLl 5` a continuación se mencionarán alg
   
 * `<footer>`: Contiene la información que figura al pie de la página (normalmente es la última caja de todas) y es donde se ubica el ©, e información como el mapa de la página, autor, fecha y otros datos finales.
 
-A continuación se mostrara la página `index.html` para visualizar la estructura de la página y contenido:
+A continuación, se mostrará la página `index.html` para visualizar la estructura de la página y contenido:
 
 
 ![index](https://user-images.githubusercontent.com/99068430/186775578-4e3a6c2b-1314-42d6-812b-77c209f357ed.png)
 
 ![index final](https://user-images.githubusercontent.com/99068430/186775765-83de1e61-fc79-44ea-9ca8-08814392feac.png)
 
+Las páginas `HTML` que se realizaron son la siguientes:
+
+* `index.html`: Contiene información de la barbería, así como un mapa con la dirección, un video, unas imágenes y la barra de navegación para moverse, como se muestra a continuación: 
 
 
+![chrome-capture-2022-7-26](https://user-images.githubusercontent.com/99068430/186995640-33599323-ab87-425d-8778-c0d6c160c1cc.gif)
+
+* `productos.html`: muestra los servicios que brinda la barbería y sus costos
+
+
+![productos video](https://user-images.githubusercontent.com/99068430/186996257-ad86c896-d645-4f88-af5c-7b14db5a3199.gif)
+
+* `contacto.html`: formulario para agendar una cita donde te pide datos como nombre, correo, teléfono, como quieres ser contactado y horario de atención.
+
+
+![contacto](https://user-images.githubusercontent.com/99068430/186998388-12a8c0bd-59e9-415f-b025-60f9b1a600ae.gif)
 
 
 
